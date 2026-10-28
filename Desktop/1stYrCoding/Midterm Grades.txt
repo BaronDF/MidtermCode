@@ -1,0 +1,67 @@
+Velasquez 
+WW
+35 35 35
+PT 
+70 70 
+(Documents)
+
+Paborito 
+WW 
+50 50 50
+PT 
+100 100
+(Front End)
+
+Briguez 
+WW 
+35 35 35
+PT 
+70 70
+(Documents)
+
+Jacobe 
+WW 
+35 35 35
+PT
+70 70
+(Documents)
+
+Jocson
+WW 
+35 35 35 
+PT 
+70 70
+(Documents)
+
+Hidocos 
+WW 
+50 50 50
+PT 
+85 85 
+(Documents, Backup Prog)
+
+Untalan 
+WW
+
+PT
+
+Rosario 
+WW 
+50 50 50
+PT 
+100 100
+(Documents)
+
+Pamintuan 
+WW
+50 50 50
+PT 
+100 100
+(Documents)
+
+Sablay 
+WW
+35 35  35 
+PT
+70 70
+(Documents)
